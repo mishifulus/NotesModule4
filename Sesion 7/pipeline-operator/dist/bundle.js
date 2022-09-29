@@ -1,0 +1,1 @@
+console.log(function(o){return o.map((o=>o[0].toUpperCase()+o.substring(1))).join(" ")}("hola mundo estoy muy feliz".split(" ")));

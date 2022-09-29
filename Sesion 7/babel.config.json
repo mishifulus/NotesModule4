@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "targets": {
+        "node" : "12",
+        "ie": "11"
+    }
+}
+//Habilita los plugins de babel, ES NECESARIO

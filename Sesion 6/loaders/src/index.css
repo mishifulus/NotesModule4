@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.box{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.box-active{
+    background-color: red;
+}

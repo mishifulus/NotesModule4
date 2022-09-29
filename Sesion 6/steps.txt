@@ -1,0 +1,19 @@
+# GENERARCION DE PACKAGE JSON
+'npm init -y'
+
+# INSTALACION DE LAS DEPENDENCIAS
+'npm install --save-dev webpack webpack-cli css-loader style-loader'
+
+# AGREGAR SCRIPTS BUILD
+...
+{
+    ...
+    "scripts": {
+        "build": "webpack"
+    }
+    ...
+}
+...
+
+# CORRER EL BUILDER
+'npm run build'

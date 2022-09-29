@@ -1,0 +1,115 @@
+SCOPE
+https://youtu.be/0xsEtt9iUAE
+
+CONSTRUCTORS
+https://youtu.be/23AOrSN-wmI
+
+APPLY, CALL, BIND
+https://youtu.be/OZ02GSH9QkY
+
+ECMAScript
+https://youtu.be/LWiMWZ9-cdw
+
+LET Y CONST
+https://youtu.be/XNAeFAYWj9E
+
+VAR, LET Y CONST
+https://youtu.be/ojrvxYcKeYg
+
+TEMPLATE STRINGS
+https://youtu.be/xEDhYdcjBYs
+
+SPREAD OPERATOR
+https://youtu.be/chjHrIcfgC8
+https://youtu.be/K77OCybbv24
+
+DESTRUCTURING
+https://youtu.be/WJJT2Ql1aFA
+
+MAP Y ARROY FUNCTIONS
+https://www.youtube.com/watch?v=dI7GUsBszS4
+
+FUNCTIONS ARROY
+https://www.youtube.com/watch?v=eXwEYSRk73U
+
+PARAMETROS DEFAULT
+https://www.youtube.com/watch?v=rYJrT3xeZjg
+
+PARAMETROS REST
+https://www.youtube.com/watch?v=eqCJClvvV8c
+
+ASINCRONIA EN JAVASCRIPT
+https://www.youtube.com/watch?v=HC1oTRmoAA8
+
+CALLBACK EN JAVASCRIPT
+https://www.youtube.com/watch?v=DaXuPcdKqQ4
+
+PROMESAS EN JAVASCRIPT
+https://www.youtube.com/watch?v=pHBmmbDQl0o
+
+ASYNC/AWAIT
+https://www.youtube.com/watch?v=u2axmPnxUoo
+https://www.youtube.com/watch?v=pywyV4pbnQQ
+
+CLIENTE SERVIDOR
+https://www.youtube.com/watch?v=4IAgB-6oAT0
+
+APIS
+https://www.youtube.com/watch?v=u2Ms34GE14U
+
+REST Y API REST
+https://www.youtube.com/watch?v=RbBPuMlgdUU
+
+AJAX
+https://www.youtube.com/watch?v=w8q0C2Fb-Gg
+
+AJAX - XML - JSON
+https://youtu.be/XHfpRvuJ-Ok
+
+JSON VS XML
+https://youtu.be/PRi7pzlKvm8
+
+METODOS HTTP
+https://youtu.be/C4kwGzCIV80
+
+VERBOS HTTP
+https://youtu.be/OHBHeAPoZ8E
+
+FETCH
+https://youtu.be/G-j5SI7Qitk
+
+HTTP
+https://youtu.be/Nw07gG6lf54
+
+WEBPACK
+https://youtu.be/SSuycjlgtd8
+
+WEBPACK LOADERS
+https://youtu.be/ULmaY2APwaQ
+
+WEBPACK PLUGIN
+https://youtu.be/71vGLcBcgnA
+https://youtu.be/qxDVwEBSz1E
+
+WEBPACK CONFIGURATION
+https://youtu.be/2UBKjshUwM8
+
+BABEL, ESLINT Y WEBPACK
+https://youtu.be/V4eHayIIq9s
+
+BABEL PRESETS
+https://youtu.be/f446paEvhM8
+
+JEST
+https://youtu.be/hlEpqK4ovgY
+
+EXPECT
+https://youtu.be/6NE47G7MwYY
+
+MATCHERS
+https://youtu.be/XCTg1qjDuTE
+
+edabit - Retos de javascript
+mdn web docs - documentacion de javascript
+
+
